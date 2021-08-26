@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         NicoAd Ticket Info Dev
+// @name         NicoAd Ticket Info
 // @namespace    https://greasyfork.org/ja/users/808813
 // @version      1.0
 // @description  ニコニ広告のチケット選択画面に有効期限を表示します。

@@ -1,11 +1,8 @@
 // ==UserScript==
 // @name         NicoAd Ticket Info
-// @namespace    https://greasyfork.org/ja/users/808813
-// @version      1.0
+// @version      1.0.1
 // @description  ニコニ広告のチケット選択画面に有効期限を表示します。
 // @author       蝙蝠の目
-// @license      MIT
-// @supportURL   https://twitter.com/intent/tweet?screen_name=kumrnm
 // @match        https://nicoad.nicovideo.jp/*/publish/*
 // @grant        GM.xmlHttpRequest
 // @grant        GM_xmlhttpRequest
